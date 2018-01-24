@@ -1,0 +1,51 @@
+{
+  // Editor
+  // "editor.emptySelectionClipboard": false,
+  "editor.formatOnSave": true,
+  // "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  // "editor.tabCompletion": true,
+  // "window.zoomLevel": 0,
+  // Extensions
+  // "extensions.ignoreRecommendations": false,
+  // Files
+  "files.insertFinalNewline": false,
+  // Java language
+  // "java.errors.incompleteClasspath.severity": "ignore",
+  // JavaScript language
+  // "javascript.validate.enable": true,
+  // Prettier
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": false,
+  "prettier.bracketSpacing": false,
+  // "prettier.jsonEnable": [],
+  "prettier.eslintIntegration": false,
+  // "eslint.autoFixOnSave": true,
+  // "editor.fontSize": 10,
+  // "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "Monaco",
+  "eslint.autoFixOnSave": false,
+  // "editor.quickSuggestions": {
+  //   "other": true,
+  //   "comments": false,
+  //   "strings": false
+  // },
+  "workbench.colorCustomizations": {
+    "titleBar.border": "#05080A",
+    "list.activeSelectionBackground": "#05080A",
+    "list.inactiveSelectionBackground": "#05080A",
+    "tab.inactiveBackground": "#05080A",
+    "editorGroupHeader.tabsBackground": "#05080A",
+    "editorGroupHeader.noTabsBackground": "#05080A",
+    "activityBar.background": "#05080A",
+    "sideBar.background": "#05080A",
+    "sideBarSectionHeader.background": "#05080A",
+    "activityBar.border": "#0b1015",
+    "tab.border": "#0b1015",
+    "panel.border": "#05080A",
+    "statusBar.border": "#05080A"
+  },
+  "workbench.colorTheme": "ƒ - Darcula",
+  "window.zoomLevel": 0
+}
